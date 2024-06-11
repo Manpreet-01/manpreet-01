@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJs,ExpressJs,NodeJs,MongoDb**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, NextJs**
 
 - 📫 How to reach me **manpreetmss400@gmail.com**
 
